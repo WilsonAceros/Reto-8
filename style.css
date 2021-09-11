@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container1{
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+.container1 h1{
+    color: rgba(106, 185, 185, 0.815);
+}
+
+.container2{
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+.container2 strong{
+    color: red;
+    border: 1px black solid;
+}
+
+.container3{
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+.container3 h2{
+    color: blue;
+}
+
+.container4{
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+.container4 strong{
+    color: red;
+    border: 1px black solid;
+}
+
+#p1{
+    color: blue;
+}
+
+#p2{
+    color: magenta;
+    border: 1px black solid;
+}
+
+
+.title_tabla{
+    color: blue;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px 60% 10px 10px;
+}
+
+table td{
+    color: green;
+}
+
+.tit_tabla_oran{
+    color: orange;
+}
+
+.tit_tabla_red{
+    color: red;
+}
+
+#p3{
+    border: 1px black solid;
+}
+
+#p4{
+    border: 1px black solid;
+    color: orange;
+}
+
+.container6,.container7,.container8{
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+.container6,.container7,.container8 p{
+    color: #b39149;
+}
+
+#p6{
+    border: 1px black solid;
+}
+
+#p7{
+    border: 1px black solid;
+    color: magenta;
+}
+
+#p8{
+    border: 1px black solid;
+    color: green;
+}
